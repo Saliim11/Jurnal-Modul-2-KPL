@@ -1,0 +1,11 @@
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\bin\Debug\modul2_1302200119.exe.config
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\bin\Debug\modul2_1302200119.exe
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\bin\Debug\modul2_1302200119.pdb
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.csproj.AssemblyReference.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.csproj.SuggestedBindingRedirects.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.Form1.resources
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.Properties.Resources.resources
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.csproj.GenerateResource.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.csproj.CoreCompileInputs.cache
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.exe
+A:\Aliim\Semester 4\Konstruksi Perangkat Lunak\Minggu 2\praktikum\jurnal\modul2_1302200119\modul2_1302200119\obj\Debug\modul2_1302200119.pdb
